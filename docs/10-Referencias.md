@@ -1,21 +1,7 @@
-# Referências
+﻿# Referências
 
-Inclua todas as referências (livros, artigos, sites, etc.) utilizadas no desenvolvimento do trabalho.
+- BARRETO, Keila Vieira; COSTA, Denis Honorato. Gestão financeira pessoal: como potencializador para o controle de finanças. e-Acadêmica, v. 3, n. 3, e5333351, 2022. Disponível em: http://dx.doi.org/10.52076/eacad-v3i3.351. Acesso em: 06 abr. 2025.
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
+- COSTA, Joyce Aparecida Brandão da; DRUMOND, Alexandre Matos. A gestão financeira em micro e pequenas empresas no município de Valença/RJ. Valença: CEFET/RJ, [s.d.]. Disponível em: <joycecosta190496@gmail.com>. Acesso em: 6 abr. 2025.
 
-⚠️ EXEMPLO ⚠️
-
-- BENYON, David. **Interação humano-computador**. 2. ed. São Paulo: Pearson Prentice Hall, 2011.
-
-- CORMEN, Thomas H et al. **Algoritmos:** teoria e prática. 4. ed. Rio de Janeiro: GEN LTC, 2024.
- 
-- ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019.
-
-- RUSSELL, Stuart J.; NORVIG, Peter. **Inteligência artificial:** uma abordagem moderna. 4. ed. Rio de Janeiro, RJ: LTC, 2022.
-
-- SUTHERLAND, Jeffrey Victor; SUTHERLAND, J. J. **Scrum:** a arte de fazer o dobro do trabalho na metade do tempo. Rio de Janeiro, RJ: Sextante, 2019. 254 p.
-
-> **Links úteis**:
-> - [Padrão PUC Minas de normalização ABNT](http://portal.pucminas.br/biblioteca/documentos/GUIA-COMPLETO-ABNT-Elaborar-formatar-trabalho-cientificoNOVO.pdf)
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/)
+- SANTOS, Pamela Caetano dos; FRANÇA, Paola Machado; BATISTA, Valquiria Constancio. O impacto do planejamento financeiro na qualidade de vida: fatores, benefícios e recomendações. Revista Foco, v. 17, n. 10, 2024. Disponível em: https://doi.org/10.54751/revistafoco.v17n10-118. Acesso em: 06 abr. 2025.
